@@ -1,7 +1,7 @@
 # Проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
 * Студент: [Василий Зозуля](https://up.htmlacademy.ru/ecmascript/13/user/672153).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Белуженко](https://htmlacademy.ru/profile/id127006).
 
 ---
 
